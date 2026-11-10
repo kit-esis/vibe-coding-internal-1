@@ -1,7 +1,7 @@
 {
   "name": "stadtapp",
   "version": "1.0.0",
-  "description": "Stadtapp",
+  "description": "Interaktive Stadtkarte der Hansestadt Osterburg (Altmark)",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
